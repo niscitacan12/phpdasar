@@ -62,7 +62,7 @@ $jurusan_kelas = $kelas['jurusan_kelas'];
             <?php echo $tingkat_kelas.' '.$jurusan_kelas ?>
         </div>
         <div class="col-12 mt-3 text-end">
-            <a herf="<?= 'update.php?id='.$id; ?>" class="btn btn-sm btn-primary">Update</a>
+            <a href="<?= 'update.php?id='.$id; ?>" class="btn btn-sm btn-primary">Update</a>
         </div>
         </div>
     </div>
